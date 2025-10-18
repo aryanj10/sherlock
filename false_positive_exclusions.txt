@@ -1,19 +1,16 @@
 APClips
-Coders Rank
-Cults3D
-Eintracht Frankfurt Forum
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
+Tiendanube
 Topcoder
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
