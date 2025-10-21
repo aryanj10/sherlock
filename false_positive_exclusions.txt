@@ -1,8 +1,6 @@
 APClips
-BreachSta.rs Forum
 GNOME VCS
 Giphy
-HackerRank
 LushStories
 PocketStars
 Reddit
@@ -14,4 +12,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
