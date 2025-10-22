@@ -1,12 +1,15 @@
 APClips
+DeviantArt
 GNOME VCS
 Giphy
+Gravatar
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Strava
 Topcoder
 Weblate
 YandexMusic
