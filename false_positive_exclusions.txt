@@ -1,8 +1,7 @@
 APClips
-Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -12,4 +11,7 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+nnRU
+opennet
 svidbook
+xHamster
