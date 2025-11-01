@@ -1,17 +1,15 @@
 APClips
 Coders Rank
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
-HackerRank
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trakt
+Topcoder
 Weblate
 YandexMusic
-opennet
+phpRU
 svidbook
