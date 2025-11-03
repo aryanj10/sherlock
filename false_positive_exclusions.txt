@@ -1,4 +1,6 @@
 APClips
+Blogger
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -8,7 +10,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 opennet
