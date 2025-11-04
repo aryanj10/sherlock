@@ -1,5 +1,4 @@
 APClips
-Blogger
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -10,9 +9,8 @@ Reddit
 RocketTube
 Splice
 Spotify
+TryHackMe
 Weblate
 YandexMusic
-opennet
 phpRU
 svidbook
-xHamster
