@@ -1,6 +1,5 @@
 APClips
 Archive.org
-DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -10,8 +9,7 @@ RocketTube
 Splice
 Spotify
 Weblate
+Wordnik
 YandexMusic
 opennet
-phpRU
 svidbook
-threads
