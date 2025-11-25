@@ -1,7 +1,7 @@
 APClips
 Archive.org
 Coders Rank
-GNOME VCS
+Dribbble
 Giphy
 LushStories
 PocketStars
@@ -12,4 +12,6 @@ Spotify
 Weblate
 YandexMusic
 opennet
+phpRU
 svidbook
+xHamster
