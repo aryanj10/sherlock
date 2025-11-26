@@ -1,10 +1,12 @@
 APClips
 Archive.org
+Blogger
 Coders Rank
-Dribbble
+GNOME VCS
 Giphy
 LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
@@ -14,4 +16,3 @@ YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
