@@ -1,12 +1,11 @@
 APClips
 Archive.org
-Blogger
 Coders Rank
+Freelancer
 GNOME VCS
 Giphy
 LushStories
 PocketStars
-Rajce.net
 Reddit
 RocketTube
 Splice
@@ -14,5 +13,4 @@ Spotify
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
