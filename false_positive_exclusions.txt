@@ -1,9 +1,6 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
-Coders Rank
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -12,10 +9,9 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Weblate
 YandexMusic
-opennet
 svidbook
-xHamster
