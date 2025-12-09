@@ -1,6 +1,8 @@
 APClips
 Archive.org
-Code Snippet Wiki
+Audiojungle
+DeviantArt
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -9,9 +11,9 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
