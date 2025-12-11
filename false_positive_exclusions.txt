@@ -11,11 +11,11 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Weblate
 YandexMusic
-eintracht
 opennet
 svidbook
+threads
+xHamster
