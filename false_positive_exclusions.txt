@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Coders Rank
 DeviantArt
 Fandom
 GNOME VCS
@@ -12,6 +11,8 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+Scribd
+Slack
 SlideShare
 Splice
 Spotify
@@ -19,4 +20,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
