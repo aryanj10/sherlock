@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Audiojungle
-CGTrader
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -9,8 +7,6 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
-LushStories
 PocketStars
 Reddit
 RocketTube
@@ -19,7 +15,6 @@ SlideShare
 Splice
 Spotify
 Weblate
-Wordnik
 opennet
 phpRU
 svidbook
