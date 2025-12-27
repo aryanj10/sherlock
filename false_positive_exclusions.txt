@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -15,6 +16,7 @@ SlideShare
 Splice
 Spotify
 Weblate
+YandexMusic
 opennet
 phpRU
 svidbook
