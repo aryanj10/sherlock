@@ -1,7 +1,7 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Eintracht Frankfurt Forum
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -16,9 +16,7 @@ SlideShare
 Splice
 Spotify
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
