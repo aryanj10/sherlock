@@ -1,10 +1,7 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
-DeviantArt
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -16,6 +13,7 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
 Weblate
@@ -24,4 +22,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
