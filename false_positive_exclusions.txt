@@ -12,6 +12,7 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -20,5 +21,6 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
