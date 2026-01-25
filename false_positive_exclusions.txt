@@ -1,6 +1,5 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -14,14 +13,11 @@ Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
 Weblate
-YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
