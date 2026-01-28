@@ -1,10 +1,9 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
 DeviantArt
 Fandom
-Freelancer
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -13,7 +12,6 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -22,5 +20,6 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
