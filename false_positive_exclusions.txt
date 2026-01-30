@@ -1,18 +1,18 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-ImgUp.cz
-LiveJournal
 LushStories
 PocketStars
+Rajce.net
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -25,3 +25,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
