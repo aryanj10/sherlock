@@ -1,13 +1,12 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
-DeviantArt
-Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Linktree
+LessWrong
 LushStories
 PocketStars
 Realmeye
