@@ -1,10 +1,11 @@
 APClips
 Archive.org
-DeviantArt
+CGTrader
+Code Snippet Wiki
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
+Hashnode
 Hubski
 LessWrong
 LushStories
