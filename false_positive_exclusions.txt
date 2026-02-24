@@ -1,16 +1,14 @@
 APClips
 Archive.org
-Blogger
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
-Hive Blog
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Realmeye
@@ -28,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
