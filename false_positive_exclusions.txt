@@ -1,7 +1,5 @@
 APClips
 Archive.org
-DeviantArt
-Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -11,7 +9,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -27,3 +24,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
