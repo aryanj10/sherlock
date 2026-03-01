@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Audiojungle
-CGTrader
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -25,3 +23,4 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
+xHamster
