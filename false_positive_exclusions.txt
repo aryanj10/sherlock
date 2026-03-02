@@ -1,5 +1,7 @@
 APClips
 Archive.org
+Chess
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -21,6 +23,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
