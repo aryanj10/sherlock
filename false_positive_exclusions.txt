@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Chess
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -26,4 +25,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
