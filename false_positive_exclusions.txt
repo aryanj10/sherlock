@@ -1,12 +1,13 @@
 APClips
 Archive.org
+Cracked Forum
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Patched
 PocketStars
@@ -22,8 +23,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
