@@ -1,10 +1,10 @@
 APClips
 Archive.org
 Carbonmade
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -20,6 +20,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
 TryHackMe
 Weblate
 YandexMusic
@@ -27,4 +28,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
