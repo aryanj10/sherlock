@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Carbonmade
 DeviantArt
 GNOME VCS
 GeeksforGeeks
