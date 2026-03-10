@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Cults3D
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -17,12 +18,13 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
-Strava
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
