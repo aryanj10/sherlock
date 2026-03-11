@@ -1,14 +1,12 @@
 APClips
 Archive.org
-Cults3D
-DeviantArt
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Rarible
@@ -18,13 +16,12 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
+Strava
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
 opennet
 phpRU
