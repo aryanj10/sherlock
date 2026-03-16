@@ -1,13 +1,10 @@
 APClips
 Archive.org
-DeviantArt
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
@@ -19,12 +16,15 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
+Tenor
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
