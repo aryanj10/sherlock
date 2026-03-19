@@ -1,4 +1,5 @@
 APClips
+Archive of Our Own
 Archive.org
 DeviantArt
 GeeksforGeeks
@@ -6,8 +7,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -24,3 +27,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
