@@ -2,15 +2,11 @@ APClips
 Archive.org
 Codolio
 DeviantArt
-Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -28,6 +24,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+igromania
 mercadolivre
 opennet
 phpRU
