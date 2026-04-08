@@ -7,9 +7,9 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
@@ -34,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
