@@ -1,5 +1,6 @@
 7Cups
 APClips
+Anilist
 Archive.org
 Bandcamp
 Codolio
@@ -9,9 +10,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
 Patched
 PocketStars
 Pornhub
@@ -34,3 +33,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
