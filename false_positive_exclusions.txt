@@ -14,9 +14,8 @@ Hubski
 LessWrong
 LushStories
 Minecraft
+OurDJTalk
 Patched
-PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,4 +36,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
