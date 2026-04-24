@@ -7,10 +7,11 @@ Codolio
 Discord.bio
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
+LessWrong
 LushStories
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -24,6 +25,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -31,5 +33,4 @@ interpals
 mercadolivre
 opennet
 phpRU
-programming.dev
 svidbook
