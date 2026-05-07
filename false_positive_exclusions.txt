@@ -6,14 +6,15 @@ ArtStation
 Bandcamp
 Codolio
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -22,12 +23,12 @@ Scribd
 Shelf
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 TryHackMe
 Velomania
 Weblate
-YandexMusic
 dailykos
 igromania
 interpals
