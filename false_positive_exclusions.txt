@@ -5,8 +5,8 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -21,14 +21,16 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
-Snapchat
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
+YandexMusic
 dailykos
 igromania
 interpals
