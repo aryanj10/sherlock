@@ -14,7 +14,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Motherless
 Patched
 Rarible
@@ -23,7 +22,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -36,7 +34,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
