@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -14,8 +15,10 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Motherless
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
