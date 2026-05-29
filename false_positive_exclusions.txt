@@ -11,6 +11,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
+LushStories
 Patched
 Rarible
 Realmeye
