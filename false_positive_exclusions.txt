@@ -23,13 +23,12 @@ Rarible
 Realmeye
 Reddit
 Replit.com
-RuneScape
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -43,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
