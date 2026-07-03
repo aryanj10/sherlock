@@ -20,6 +20,7 @@ Minecraft
 Odysee
 PCGamer
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -40,7 +41,7 @@ fixya
 igromania
 interpals
 mercadolivre
-nnRU
+minds
 opennet
 phpRU
 svidbook
