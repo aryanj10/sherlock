@@ -15,7 +15,6 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Odysee
@@ -28,10 +27,10 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -39,6 +38,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
