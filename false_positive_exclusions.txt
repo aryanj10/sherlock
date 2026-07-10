@@ -8,19 +8,18 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -34,14 +33,12 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
