@@ -16,7 +16,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LiveJournal
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
