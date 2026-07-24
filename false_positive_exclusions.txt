@@ -11,12 +11,16 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
+Itch.io
 LessWrong
+LushStories
 Odysee
+OurDJTalk
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,8 +31,11 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
