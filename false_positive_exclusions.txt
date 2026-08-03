@@ -1,10 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -18,7 +20,6 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-LiveJournal
 LushStories
 Odysee
 PCGamer
@@ -27,6 +28,7 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -35,7 +37,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -46,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
