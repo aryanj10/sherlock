@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,6 +8,7 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,9 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -33,6 +33,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
