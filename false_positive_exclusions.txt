@@ -1,11 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cults3D
@@ -20,11 +20,10 @@ Houzz
 Hubski
 Instapaper
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
-Patched
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
