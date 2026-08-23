@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,7 +8,7 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
-Cracked Forum
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,12 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LushStories
-Minecraft
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,8 +33,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -51,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
