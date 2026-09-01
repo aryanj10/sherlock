@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -20,8 +21,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LiveJournal
 LushStories
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -30,11 +33,13 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
@@ -43,7 +48,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
