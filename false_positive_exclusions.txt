@@ -3,7 +3,6 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -20,7 +19,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
+Itch.io
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,6 +31,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
