@@ -13,12 +13,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
