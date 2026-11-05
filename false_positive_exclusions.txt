@@ -1,9 +1,11 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -25,6 +27,8 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,6 +39,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -49,4 +54,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
