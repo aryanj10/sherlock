@@ -5,10 +5,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -23,12 +23,9 @@ Hubski
 Instapaper
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -54,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
