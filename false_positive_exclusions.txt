@@ -1,4 +1,6 @@
+APClips
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -8,17 +10,19 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Flipboard
 GaiaOnline
 GeeksforGeeks
 HackerNews
+HackerRank
 Hashnode
 Hubski
 Instapaper
+LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
