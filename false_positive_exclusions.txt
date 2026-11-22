@@ -3,7 +3,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Chatujme.cz
-Chess
 Codolio
 Cracked Forum
 DeviantArt
@@ -15,8 +14,6 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -30,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -42,7 +38,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
